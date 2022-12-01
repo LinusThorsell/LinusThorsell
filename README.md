@@ -12,13 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                       linus@GitHub-Repository
-             ,\        ------------------- 
-             \\,_      OS: Ubuntu 22.04.1 LTS x86_64
-              \` ,\    Editor: [Neovim 8](https://github.com/neovim/neovim) [My Config](https://github.com/LinusThorsell/linus-neovim-config)
-         __,.-" =__)   Terminal: [kitty](https://sw.kovidgoyal.net/kitty/)
-       ."        )     Theme: [Catppuccin Mocha](https://github.com/catppuccin)
-    ,_/   ,    \/\_    Website: [linusthorsell.se](https://linusthorsell.se/)
-    \_|    )_-\ \_-`   Coffee?: Yes
-       `-----` `--`                            
-       linus $ Contact-Linus => [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
+🔭 I’m currently working on
+* Contributing to [BetaFlight](https://github.com/betaflight/)
