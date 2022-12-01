@@ -39,7 +39,7 @@ Have my Neofetch bunny with some changes as a thanks for reading!
 
                        linus@linus-surface 
              ,\        ------------------- 
-             \\,_      OS: Ubuntu 22.04.1 LTS
+             \\,_      OS: Ubuntu 22.04 LTS
               \` ,\    Editor: Neovim 8 
          __,.-" =__)   Terminal: kitty 
        ."        )     Theme: Catppuccin Mocha
