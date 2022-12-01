@@ -21,20 +21,20 @@ scripts and webapps. I finish school in June/2023.
 
 Feel free to browse my profile! I have a couple of fun projects!
 
-🔭 I’m currently working on
+###🔭 I’m currently working on
 * Finishing up School. ( Bachelor in Computer Science, Engineering )
 * Contributing to [BetaFlight](https://github.com/betaflight/).
 * Finding new repositories to contribute to...
 
-⚡ Fun fact about me  
+###⚡ Fun fact about me  
 I made my first program when I was 13.  
 ( Note to my overly proud younger self, it was an absolutely garbage game )
 
-📫 How to reach me  
+###📫 How to reach me  
 Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)  
 or on Discord Linus#3129
 
-What now? my readme is over... :(  
+###What now? my readme is over... :(  
 Have my Neofetch bunny with some changes as a thanks for reading!
 
                        linus@linus-surface 
