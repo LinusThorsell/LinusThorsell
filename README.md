@@ -27,7 +27,8 @@ Feel free to browse my profile! I have a couple of fun projects!
 🌱 I’m currently learning
 * TypeScript and Preact
 
-⚡ Fun fact about me: I made my first program when I was 13. ( Note to my overly proud younger self, it was an absolutely garbage game )
+⚡ Fun fact about me
+I made my first program when I was 13. ( Note to my overly proud younger self, it was an absolutely garbage game )
 
 📫 How to reach me
 Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
