@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Who am I?
+😄 Who am I?  
 I am a Computer Science student that absolutely loves writing all kinds of cool
 programs, scripts and webapps. I am finishing my education in June/2023.
 
@@ -27,17 +27,14 @@ Feel free to browse my profile! I have a couple of fun projects!
 🌱 I’m currently learning
 * TypeScript and Preact
 
-⚡ Fun fact about me
-
+⚡ Fun fact about me  
 I made my first program when I was 13. ( Note to my overly proud younger self, it was an absolutely garbage game )
 
-📫 How to reach me
-
+📫 How to reach me  
 Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
 or on Discord Linus#3129
 
-What now? my readme is over... :(
-
+What now? my readme is over... :(  
 Have my Neofetch bunny as a thanks for reading!
 
                        linus@linus-surface 
