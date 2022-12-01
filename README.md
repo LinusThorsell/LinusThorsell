@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 Who am I?  
-I am a Computer Science student that absolutely loves writing all kinds of cool
-programs, scripts and webapps. I am finishing my education in June/2023.
+# Hey There! 👋👋
+
+My name is Linus and I am a Computer Science student 
+that absolutely loves writing all kinds of cool programs,  
+scripts and webapps. I am finishing my education in June/2023.
 
 Feel free to browse my profile! I have a couple of fun projects!
 
@@ -24,14 +26,12 @@ Feel free to browse my profile! I have a couple of fun projects!
 * Contributing to [BetaFlight](https://github.com/betaflight/).
 * Looking for new repositories to contribute to.
 
-🌱 I’m currently learning
-* TypeScript and Preact
-
 ⚡ Fun fact about me  
-I made my first program when I was 13. ( Note to my overly proud younger self, it was an absolutely garbage game )
+I made my first program when I was 13.  
+( Note to my overly proud younger self, it was an absolutely garbage game )
 
 📫 How to reach me  
-Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
+Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)  
 or on Discord Linus#3129
 
 What now? my readme is over... :(  
