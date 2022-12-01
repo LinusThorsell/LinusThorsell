@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey There! 👋👋
 
-My name is Linus and I am a Computer Science student 
+My name is Linus and I am a Computer Science student  
 that absolutely loves writing all kinds of cool programs,  
 scripts and webapps. I am finishing my education in June/2023.
 
@@ -35,15 +35,15 @@ Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
 or on Discord Linus#3129
 
 What now? my readme is over... :(  
-Have my Neofetch bunny as a thanks for reading!
+Have my Neofetch bunny with some changes as a thanks for reading!
 
                        linus@linus-surface 
              ,\        ------------------- 
-             \\,_      OS: Ubuntu 22.04.1 LTS x86_64 
-              \` ,\    DE: GNOME 42.5 
-         __,.-" =__)   CPU: Intel i5-1035G4 (8) @ 3.700GHz 
-       ."        )     GPU: Intel Iris Plus Graphics G4 
-    ,_/   ,    \/\_    Memory: 5193MiB / 7545MiB 
+             \\,_      OS: Ubuntu 22.04.1 LTS
+              \` ,\    Editor: Neovim 8 
+         __,.-" =__)   Terminal: kitty 
+       ."        )     Theme: Catppuccin Mocha
+    ,_/   ,    \/\_    Coffee? Yes!!!!
     \_|    )_-\ \_-`
        `-----` `--`                            
                                                
