@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Linus and I am a Computer Science student  
 that absolutely loves writing all kinds of cool programs,  
-scripts and webapps. I am finishing my education in June/2023.
+scripts and webapps. I finish school in June/2023.
 
 Feel free to browse my profile! I have a couple of fun projects!
 
