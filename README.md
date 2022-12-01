@@ -21,4 +21,4 @@ Here are some ideas to get you started:
     ,_/   ,    \/\_    Website: [linusthorsell.se](https://linusthorsell.se/)
     \_|    )_-\ \_-`   Coffee?: Yes
        `-----` `--`                            
-linus $ Contact-Linus => [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
+       linus $ Contact-Linus => [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)
