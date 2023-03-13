@@ -24,6 +24,7 @@ Feel free to browse my profile! I have a couple of fun projects!
 ### 🔭 I’m currently working on
 * Finishing up School. ( Bachelor in Computer Science, Engineering )
 * Contributing to [BetaFlight](https://github.com/betaflight/).
+* Freelancing Websites
 * Finding new repositories to contribute to...
 
 ### ⚡ Fun fact about me  
