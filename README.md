@@ -27,7 +27,7 @@ Feel free to browse my profile! I have a couple of fun projects!
 * Finding new repositories to contribute to...
 
 ### ⚡ Fun fact about me  
-I made my first program when I was 13.  
+I made my first program when I was 14.  
 ( Note to my overly proud younger self, it was an absolutely garbage game )
 
 ### 📫 How to reach me  
