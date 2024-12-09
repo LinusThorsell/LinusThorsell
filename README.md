@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 # Hey There! 👋👋
 
-My name is Linus and I am a Computer Science student  
-that absolutely loves writing all kinds of cool programs,  
-scripts and webapps. I finish school in June/2023.
+My name is Linus and I am a Computer science engineer that
+absolutely loves writing all kinds of cool programs,  
+scripts and webapps.
 
 Feel free to browse my profile! I have a couple of fun projects!
 
 ### 🔭 I’m currently working on
-* Finishing up School. ( Bachelor in Computer Science, Engineering )
 * Contributing to [BetaFlight](https://github.com/betaflight/).
 * Freelancing Websites
 * Finding new repositories to contribute to...
@@ -40,11 +39,11 @@ Have my Neofetch bunny with some changes as a thanks for reading!
 
                        linus@linus-surface 
              ,\        ------------------- 
-             \\,_      OS: Ubuntu 22.04 LTS
-              \` ,\    Editor: Neovim 8 
-         __,.-" =__)   Terminal: kitty 
-       ."        )     Theme: Catppuccin Mocha
-    ,_/   ,    \/\_    Coffee? Yes!!!!
-    \_|    )_-\ \_-`
+             \\,_      OS: NixOS 24.11
+              \` ,\    Editor: Neovim 10 
+         __,.-" =__)   Terminal: AlacriTTY
+       ."        )     WM/DE: Hyprland
+    ,_/   ,    \/\_    Theme: Everforest Dark
+    \_|    )_-\ \_-`   Coffee? Yes!!!!
        `-----` `--`                            
                                                
