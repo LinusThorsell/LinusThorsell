@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Linus and I am an engineer that
 absolutely loves writing all kinds of cool programs,  
-scripts and webapps.
+scripts and webapps. (and sometimes even a robot or two!)
 
 Feel free to browse my profile! I have a couple of fun projects!
 
