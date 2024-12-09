@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey There! 👋👋
 
-My name is Linus and I am a Computer science engineer that
+My name is Linus and I am an engineer that
 absolutely loves writing all kinds of cool programs,  
 scripts and webapps.
 
