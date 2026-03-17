@@ -8,6 +8,8 @@ Feel free to browse my profile! I have a couple of fun projects!
 
 ### 🔭 I’m currently working on
 * Creating [toastyrabbit](https://github.com/LinusThorsell/toastyrabbit)
+* Creating [high-availability-spilo](https://github.com/LinusThorsell/high-availability-spilo)
++ Multiple private projects ;)
 
 ### ⚡ Fun fact about me  
 I made my first program when I was 14.
