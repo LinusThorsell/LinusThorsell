@@ -11,6 +11,8 @@ Feel free to browse my profile! I have a couple of fun projects!
 * Creating [high-availability-spilo](https://github.com/LinusThorsell/high-availability-spilo)
 + Multiple private projects ;)
 
+### 🤖 I control this little AI guy [linus-codex](https://github.com/linus-codex)
+
 ### ⚡ Fun fact about me  
 I made my first program when I was 14.
 ( Note to my overly proud younger self, it was an absolutely garbage game )
