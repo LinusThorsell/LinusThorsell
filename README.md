@@ -19,7 +19,7 @@ I made my first program when I was 14.
 
 ### 📫 How to reach me  
 Best bet is on [LinkedIn](https://www.linkedin.com/in/linus-thorsell/)  
-or on Discord Linus#3129
+or on Discord linust
 
 ### 😿 What now? my readme is over... :(  
 Have my Neofetch bunny with some changes as a thanks for reading!
